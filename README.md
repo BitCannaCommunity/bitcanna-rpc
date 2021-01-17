@@ -16,7 +16,7 @@ A simple initialization with the client's rpc identifier and you will be able to
 
 1/ In your nodeJs project, create `.npmrc` file and add this:  
 	
-	`@bitcannacommunity:registry=https://npm.pkg.github.com`
+`@bitcannacommunity:registry=https://npm.pkg.github.com`
 
 2/ Install lib:  
 
