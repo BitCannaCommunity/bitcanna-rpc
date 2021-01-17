@@ -1,0 +1,14 @@
+{
+  "name": "listaddressgroupings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "listaddressgroupings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bitcannacommunity/bitcanna-rpc": "^1.1.6"
+  }
+}

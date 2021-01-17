@@ -1,4 +1,4 @@
-# getinfo
+# listaddressgroupings
 
 *   [Installation](#installation "Installation")
 *   [Usage](#usage "Usage")
@@ -15,7 +15,7 @@
 
 ## Usage  
 
-    node index.js
+    node listaddressgroupings.js
 
 ## Result 
 

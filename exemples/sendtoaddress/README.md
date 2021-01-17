@@ -1,4 +1,4 @@
-# getinfo
+# sendtoaddress
 
 *   [Installation](#installation "Installation")
 *   [Usage](#usage "Usage")
@@ -15,7 +15,7 @@
 
 ## Usage  
 
-    node index.js
+    node sendtoaddress.js
 
 ## Result 
 
