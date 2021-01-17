@@ -8,9 +8,9 @@
     "url": "git+https://github.com/BitCannaCommunity/bitcanna-rpc.git"
   },
   "keywords": [
-	"bitcanna",
-	"bcna",
-	"cannabis",
+    "bitcanna",
+    "bcna",
+    "cannabis",
     "jsonrpc",
     "bitcoin"
   ],
