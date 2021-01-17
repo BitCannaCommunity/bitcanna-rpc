@@ -14,11 +14,17 @@ A simple initialization with the client's rpc identifier and you will be able to
 
 ## Installation 
 
+1/ In your nodeJs project, create `.npmrc` file and add this:
+	
+	@bitcannacommunity:registry=https://npm.pkg.github.com 
+
+2/ Install lib:
+
 `npm install @bitcannacommunity/bitcanna-rpc`
 
 ## Usage  
 
-    const bcnaRpc = require('bitcanna-rpc');
+    const bcnaRpc = require('@bitcannacommunity/bitcanna-rpc');
     const bitCanna = new bcnaRpc('localhost', '9888', 'rpcUsername', 'rpcPass');
     
     bitCanna.call('getinfo', [], function (err, resB) {
