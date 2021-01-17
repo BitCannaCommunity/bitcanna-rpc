@@ -1,0 +1,26 @@
+{
+  "name": "@BitCannaCommunity/bitcanna-rpc",
+  "version": "1.1.2",
+  "description": "Nodejs json-rpc lib for bitcanna",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitCannaCommunity/bitcanna-rpc.git"
+  },
+  "keywords": [
+	"bitcanna",
+	"bcna",
+	"cannabis",
+    "jsonrpc",
+    "bitcoin"
+  ],
+  "author": "atmoner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BitCannaCommunity/bitcanna-rpc/issues"
+  },
+  "homepage": "https://github.com/BitCannaCommunity/bitcanna-rpc#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
