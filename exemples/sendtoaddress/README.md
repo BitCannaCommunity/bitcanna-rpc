@@ -17,6 +17,3 @@
 
     node sendtoaddress.js
 
-## Result 
-
-![bitcannaRpcResult](https://i.imgur.com/HUimSYa.png)
